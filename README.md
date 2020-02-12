@@ -1,3 +1,4 @@
+#I am Harshit Ramolia made some changes 
 # PM Speech Analysis 
 
 Here we wish to analyse speeches of our current prime minister and be able to extract some subject data from the follwoing speeches. The speeches for Manmohan Singh too are available 
